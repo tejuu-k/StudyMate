@@ -1,4 +1,9 @@
 # StudyMateAI 🚀
+## 🌐 Project Website (GitHub Hosted)
+https://tejuu-k.github.io/StudyMate/
+
+## 🚀 Live Application
+https://studymatetool.lovable.app/
 
 StudyMateAI is an AI-powered study assistant built using Lovable ToolForge.
 
